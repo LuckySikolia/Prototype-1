@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Games_and_game_development\\unity_learn_projects\\Prototype_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16A84A02-F48A-99C0-433F-81692AC93E49}|Assembly-CSharp.csproj|d:\\games_and_game_development\\unity_learn_projects\\prototype_1\\assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16A84A02-F48A-99C0-433F-81692AC93E49}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{16A84A02-F48A-99C0-433F-81692AC93E49}|Assembly-CSharp.csproj|d:\\games_and_game_development\\unity_learn_projects\\prototype_1\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16A84A02-F48A-99C0-433F-81692AC93E49}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A84A02-F48A-99C0-433F-81692AC93E49}|Assembly-CSharp.csproj|d:\\games_and_game_development\\unity_learn_projects\\prototype_1\\assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A84A02-F48A-99C0-433F-81692AC93E49}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,18 +17,18 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 160,
+          "DockedHeight": 164,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\Games_and_game_development\\unity_learn_projects\\Prototype_1\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "D:\\Games_and_game_development\\unity_learn_projects\\Prototype_1\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAcAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T00:38:42.232Z",
               "EditorCaption": ""
@@ -53,13 +53,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FollowPlayer.cs",
               "DocumentMoniker": "D:\\Games_and_game_development\\unity_learn_projects\\Prototype_1\\Assets\\Scripts\\FollowPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FollowPlayer.cs",
               "ToolTip": "D:\\Games_and_game_development\\unity_learn_projects\\Prototype_1\\Assets\\Scripts\\FollowPlayer.cs",
               "RelativeToolTip": "Assets\\Scripts\\FollowPlayer.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T01:53:23.997Z",
               "EditorCaption": ""
