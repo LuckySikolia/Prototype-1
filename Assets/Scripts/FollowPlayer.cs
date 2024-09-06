@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class FollowPlayer : MonoBehaviour
@@ -7,7 +8,8 @@ public class FollowPlayer : MonoBehaviour
     public GameObject player;
     //initialize a private variable
     private Vector3 offset = new Vector3(0, 5, -7);
-
+    
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -19,4 +21,8 @@ public class FollowPlayer : MonoBehaviour
     {//Offset th camera behind the player by adding to the players' position
         transform.position = player.transform.position + offset;
     }
+
+
+
+
 }

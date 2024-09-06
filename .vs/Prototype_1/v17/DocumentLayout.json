@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\Games_and_game_development\\unity_learn_projects\\Prototype_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16A84A02-F48A-99C0-433F-81692AC93E49}|Assembly-CSharp.csproj|d:\\games_and_game_development\\unity_learn_projects\\prototype_1\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16A84A02-F48A-99C0-433F-81692AC93E49}|Assembly-CSharp.csproj|d:\\games_and_game_development\\unity_learn_projects\\prototype_1\\assets\\scripts\\cameracontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A84A02-F48A-99C0-433F-81692AC93E49}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A84A02-F48A-99C0-433F-81692AC93E49}|Assembly-CSharp.csproj|D:\\Games_and_game_development\\unity_learn_projects\\Prototype_1\\assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A84A02-F48A-99C0-433F-81692AC93E49}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A84A02-F48A-99C0-433F-81692AC93E49}|Assembly-CSharp.csproj|D:\\Games_and_game_development\\unity_learn_projects\\Prototype_1\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16A84A02-F48A-99C0-433F-81692AC93E49}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16A84A02-F48A-99C0-433F-81692AC93E49}|Assembly-CSharp.csproj|d:\\games_and_game_development\\unity_learn_projects\\prototype_1\\assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16A84A02-F48A-99C0-433F-81692AC93E49}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16A84A02-F48A-99C0-433F-81692AC93E49}|Assembly-CSharp.csproj|D:\\Games_and_game_development\\unity_learn_projects\\Prototype_1\\assets\\scripts\\npccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A84A02-F48A-99C0-433F-81692AC93E49}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,21 +31,57 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CameraControl.cs",
+              "DocumentMoniker": "D:\\Games_and_game_development\\unity_learn_projects\\Prototype_1\\Assets\\Scripts\\CameraControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraControl.cs",
+              "ToolTip": "D:\\Games_and_game_development\\unity_learn_projects\\Prototype_1\\Assets\\Scripts\\CameraControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraControl.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwC0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:28:12.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NPCController.cs",
+              "DocumentMoniker": "D:\\Games_and_game_development\\unity_learn_projects\\Prototype_1\\Assets\\Scripts\\NPCController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPCController.cs",
+              "ToolTip": "D:\\Games_and_game_development\\unity_learn_projects\\Prototype_1\\Assets\\Scripts\\NPCController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPCController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:03:45.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FollowPlayer.cs",
+              "DocumentMoniker": "D:\\Games_and_game_development\\unity_learn_projects\\Prototype_1\\Assets\\Scripts\\FollowPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FollowPlayer.cs",
+              "ToolTip": "D:\\Games_and_game_development\\unity_learn_projects\\Prototype_1\\Assets\\Scripts\\FollowPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FollowPlayer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T01:53:23.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\Games_and_game_development\\unity_learn_projects\\Prototype_1\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "D:\\Games_and_game_development\\unity_learn_projects\\Prototype_1\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T00:38:42.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T00:38:42.232Z"
             }
           ]
         },
         {
           "DockedHeight": 164,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,19 +94,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FollowPlayer.cs",
-              "DocumentMoniker": "D:\\Games_and_game_development\\unity_learn_projects\\Prototype_1\\Assets\\Scripts\\FollowPlayer.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\FollowPlayer.cs",
-              "ToolTip": "D:\\Games_and_game_development\\unity_learn_projects\\Prototype_1\\Assets\\Scripts\\FollowPlayer.cs",
-              "RelativeToolTip": "Assets\\Scripts\\FollowPlayer.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T01:53:23.997Z",
-              "EditorCaption": ""
             }
           ]
         }

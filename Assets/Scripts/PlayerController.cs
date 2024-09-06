@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     //initialize private variables
-    private float speed = 5.0f;  //a member variable
+    private float speed = 10.0f;  //a member variable
     private float turnSpeed = 30.0f; 
     private float horizontalInput;
     private float forwardInput;
